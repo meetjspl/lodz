@@ -1,2 +1,3 @@
-# lodz
-Łódź meet.js meetups info page
+# Łódź meet.js 
+
+here be dragons
