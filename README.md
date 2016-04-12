@@ -1,6 +1,10 @@
 ## meet.js Łódź
 Niekomercyjne spotkania front-endowe typu meetup, organizowane przez społeczność dla społeczności. 
 
+### Najbliższe spotkanie
+**13.04.2016, [Tektura Kawa & Bistro](https://www.facebook.com/Tektura.Kawa.Bistro/), ul. Tymienieckiego 3, godz. 18:00-20:00**
+
+
 ### Kontakt
 email: [lodz@meetjs.pl](mailto:lodz@meetjs.pl)
 
@@ -28,7 +32,7 @@ Chcesz promować firmę wśród developerów i uczestniczyć w organizacji mee
 - wsparcie techniczne spotkania: projektor, mikroport dla prelegentów
 - nagrania ze spotkań do publikacji online
 - wystąpienia prelegentów z innych miast (refundacja kosztów)
-- open-bar/catering dla uczestników spotkania (we współpracy z Tektura Kawa & Bistro)
+- open-bar/catering dla uczestników spotkania (we współpracy z [Tektura Kawa & Bistro](https://www.facebook.com/Tektura.Kawa.Bistro/))
 - konkursy z nagrodami (wejściówki na konferencje, książki, przydatne gadżety itp.)
 
 Ze swojej strony proponujemy:
