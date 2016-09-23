@@ -2,7 +2,7 @@
 Niekomercyjne spotkania front-endowe typu meetup, organizowane przez społeczność dla społeczności. 
 
 ### Najbliższe spotkanie
-**17.05.2016, [Tektura Kawa & Bistro](https://www.facebook.com/Tektura.Kawa.Bistro/), ul. Tymienieckiego 3, godz. 18:00-20:00**
+**28.09.2016, [Tektura Kawa & Bistro](https://www.facebook.com/Tektura.Kawa.Bistro/), ul. Tymienieckiego 3, godz. 18:00-20:00**
 
 
 ### Kontakt
