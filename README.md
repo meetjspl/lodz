@@ -2,7 +2,7 @@
 Niekomercyjne spotkania front-endowe typu meetup, organizowane przez społeczność dla społeczności. 
 
 ### Najbliższe spotkanie
-**31.10.2016, [Tektura Kawa & Bistro](https://www.facebook.com/Tektura.Kawa.Bistro/), ul. Tymienieckiego 3, godz. 18:00-20:00**
+**23.05.2017, [6. dzielnica](https://www.facebook.com/6dzielnica/), ul. Piotrkowska 102, godz. 18:00-20:30**
 
 
 ### Kontakt
@@ -19,7 +19,7 @@ Informacje o najbliższych spotkaniach meet.js w Łodzi znajdziesz na naszym pro
 
 
 ### Zaproponuj temat prezentacji
-Masz temat, który chcesz przedstawić, ciekawe technicznie wyzwanie w projekcie, lub chcesz o czymś usłyszeć? Być może ktoś może o tym opowiedzieć na spotkaniu. Zgłoś temat prezentacji jako "issue" w tym repozytorium. Wystarczy temat i jedno-dwa zdania opisu. Szegóły możesz dodać później. Zgłoszenie prezentacji zmotywuje Cię do jej przygotowania, jednak nadal to Ty decydujesz kiedy prezentacja jest gotowa.
+Masz temat, który chcesz przedstawić, ciekawe technicznie wyzwanie w projekcie, lub chcesz o czymś usłyszeć? Być może ktoś może o tym opowiedzieć na spotkaniu. Zgłoś temat prezentacji jako "issue" w tym repozytorium. Wystarczy temat i jedno-dwa zdania opisu. Szczegóły możesz dodać później. Zgłoszenie prezentacji zmotywuje Cię do jej przygotowania, jednak nadal to Ty decydujesz kiedy prezentacja jest gotowa.
 
 Dzięki zgłoszeniu tematu dowiesz się, jakie szczegóły problemu interesują uczestników i przygotujesz się na konkretne pytania.
 
@@ -29,10 +29,9 @@ Dzięki zgłoszeniu tematu dowiesz się, jakie szczegóły problemu interesują 
 
 Chcesz promować firmę wśród developerów i uczestniczyć w organizacji meet.js Łódż? Kilka rzeczy, w które jako sponsor możesz się zaangażować:
 
-- wsparcie techniczne spotkania: projektor, mikroport dla prelegentów
 - nagrania ze spotkań do publikacji online
-- wystąpienia prelegentów z innych miast (refundacja kosztów)
-- open-bar/catering dla uczestników spotkania (we współpracy z [Tektura Kawa & Bistro](https://www.facebook.com/Tektura.Kawa.Bistro/))
+- wystąpienia znanych prelegentów z innych miast (refundacja kosztów hotelu i przejazdu)
+- open-bar/catering dla uczestników spotkania (we współpracy z [6. dzielnica](https://www.facebook.com/6dzielnica/))
 - konkursy z nagrodami (wejściówki na konferencje, książki, przydatne gadżety itp.)
 
 Ze swojej strony proponujemy:
