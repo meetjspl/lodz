@@ -2,7 +2,7 @@
 Niekomercyjne spotkania front-endowe typu meetup, organizowane przez społeczność dla społeczności. 
 
 ### Najbliższe spotkanie
-**23.05.2017, [6. dzielnica](https://www.facebook.com/6dzielnica/), ul. Piotrkowska 102, godz. 18:00-20:30**
+**13.06.2017, [6. dzielnica](https://www.facebook.com/6dzielnica/), ul. Piotrkowska 102, godz. 18:00-20:30**
 
 
 ### Kontakt
